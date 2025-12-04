@@ -137,13 +137,13 @@ ol {
 
 /* Links */
 a {
-    color: var(--primary-red);
-    text-decoration: none;
+    color: #0066cc;
+    text-decoration: underline;
     transition: color 0.3s ease;
 }
 
 a:hover {
-    color: var(--accent-gold);
+    color: #004499;
     text-decoration: underline;
 }
 
